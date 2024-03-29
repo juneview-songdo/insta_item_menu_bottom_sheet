@@ -1,7 +1,7 @@
 name: insta_item_menu_bottom_sheet
 description: "JuneView Template"
 #publish_to: 'none'
-#repository: https://github.com/juneflow-songdo/june_view
+repository: https://github.com/juneview-songdo/insta_item_menu_bottom_sheet
 
 version: 0.0.1+1
 
